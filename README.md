@@ -56,9 +56,10 @@ Reach out to me on Discord:
 
 ## 📷 Screenshots / Preview
 
-![image](https://github.com/user-attachments/assets/fc214580-9de7-4531-9079-14bc04d9f74d)
 
+![image](https://github.com/user-attachments/assets/7fce36ce-1adc-4213-b391-5e81625f755b)
 ![image](https://github.com/user-attachments/assets/5eeb744f-bc87-447f-8d16-6d89f757a511)
+
 
 
 ---
