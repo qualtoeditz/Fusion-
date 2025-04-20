@@ -58,6 +58,9 @@ Reach out to me on Discord:
 
 
 ![image](https://github.com/user-attachments/assets/7fce36ce-1adc-4213-b391-5e81625f755b)
+![image](https://github.com/user-attachments/assets/8c0de7ef-75b1-40ab-83d6-ea4383fb989c)
+![image](https://github.com/user-attachments/assets/c269c9b8-f260-4c1f-ba91-40482f34fa13)
+![image](https://github.com/user-attachments/assets/3f44d11a-6ae6-4ec4-a344-77cd4dd0e997)
 ![image](https://github.com/user-attachments/assets/5eeb744f-bc87-447f-8d16-6d89f757a511)
 
 
