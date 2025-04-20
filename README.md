@@ -50,7 +50,7 @@ Reach out to me on Discord:
 
 - Fusion++ is currently under **active development** – expect regular updates!
 - Screenshare safe? 💯 As long as you’re careful.
-- Video of the original (not this version): [YouTube – Cyde](https://www.youtube.com/watch?v=QMNa8mOvMCY&t=117s&ab_channel=cyde)
+- Showcase of the Base (Fusion, not fusion++): [YouTube – Cyde](https://www.youtube.com/watch?v=QMNa8mOvMCY&t=117s&ab_channel=cyde)
 
 ---
 
