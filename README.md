@@ -55,7 +55,9 @@ Reach out to me on Discord:
 ---
 
 ## 📷 Screenshots / Preview
+
 ![image](https://github.com/user-attachments/assets/fc214580-9de7-4531-9079-14bc04d9f74d)
+
 ![image](https://github.com/user-attachments/assets/5eeb744f-bc87-447f-8d16-6d89f757a511)
 
 
@@ -64,11 +66,13 @@ Reach out to me on Discord:
 ## ✅ To-Do
 
 - [x] DLL Injection support  
-- [x] ImGui Interface  
+- [x] ImGui Interface
+- [ ] Clean Injector (Paid in future bcs its alot of work..)
 - [ ] Auto-Updater  
 - [ ] Better Module Manager  
-- [ ] KillAura Rewrite  
-- [ ] Configuration System  
+- [ ] Reach Rewrite
+- [ ] Configuration System
+- [ ] More 🤫
 
 ---
 
