@@ -33,8 +33,8 @@ I created a **custom injector** for Fusion++, but for ease of use, I recommend [
 
 | Function     | Key       |
 |--------------|-----------|
-| 🧩 Open ImGui | `P` (in-game) |
-| 🎛️ Other Binds | Customize in GUI |
+| Open ImGui | `P` (in-game) |
+| Other Binds | Customize in GUI |
 
 ---
 
@@ -55,7 +55,9 @@ Reach out to me on Discord:
 ---
 
 ## 📷 Screenshots / Preview
-*(Coming soon...)*
+![image](https://github.com/user-attachments/assets/fc214580-9de7-4531-9079-14bc04d9f74d)
+![image](https://github.com/user-attachments/assets/5eeb744f-bc87-447f-8d16-6d89f757a511)
+
 
 ---
 
