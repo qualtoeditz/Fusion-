@@ -1,17 +1,80 @@
-# Fusion++
-🚀 My own advanced version of the original Fusion Client
+# Fusion++ 💉🔥  
+> 🚀 Advanced DLL-based Minecraft 1.8.9 Hack Client | Better than your average .jar 😈
 
-I'm currently developing Fusion++, a powerful and feature-rich Minecraft 1.8.9 hack client. It's based on the original Fusion client (DLL-based), but with major improvements, better performance, and enhanced bypass capabilities.
+![Version](https://img.shields.io/badge/status-in%20development-yellow?style=flat-square)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.8.9-blue?style=flat-square)
+![Injection](https://img.shields.io/badge/injection-DLL-critical?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey?style=flat-square)
 
-🔗 Fusion Video (NOT original): [Youtube - Cyde](https://www.youtube.com/watch?v=QMNa8mOvMCY&t=117s&ab_channel=cyde) 
-Unlike average .jar clients, Fusion++ is injected as a DLL, making it far more stealthy and reliable—especially during screenshares or other client checks. This method provides a huge advantage in terms of undetectability and flexibility.
+---
 
-💉 I’ve also developed my own custom DLL injector specifically for Fusion++. However, for ease of use, I recommend using System Informer (formerly Process Hacker), which offers a more user-friendly interface.
+## ✨ About Fusion++
+**Fusion++** is my own advanced fork of the original [Fusion Client](https://www.youtube.com/watch?v=QMNa8mOvMCY&t=117s&ab_channel=cyde) – a DLL-based Minecraft hack client.  
+It’s built specifically for **Minecraft 1.8.9**, with improvements in:
 
-🔽 Download System Informer: [System Informer v3.2.25011 – SourceForge](https://systeminformer.sourceforge.io/downloads)
+- 🧠 **Bypass capabilities**
+- ⚙️ **Performance & stability**
+- 🔒 **Screenshare safety**
 
-Stay tuned for updates — Fusion++ is still in development and will only get better. 🔧✨
+> Unlike average `.jar` clients, Fusion++ is injected as a **DLL**, making it stealthier, more reliable, and harder to detect 🔥
 
-# Important:
+---
 
-Bug reports / Ideas for future updates: Dm @realqualto on discord ❤️
+## 💉 DLL Injection
+
+I created a **custom injector** for Fusion++, but for ease of use, I recommend [System Informer](https://systeminformer.sourceforge.io/downloads) (formerly Process Hacker). It’s simple, clean, and works perfectly.
+
+📥 **Recommended Injector**:  
+[System Informer v3.2.25011 – Download via SourceForge](https://sourceforge.net/projects/systeminformer/files/systeminformer-3.2.25011-release-setup.exe/download)
+
+---
+
+## 🎮 Keybinds
+
+| Function     | Key       |
+|--------------|-----------|
+| 🧩 Open ImGui | `P` (in-game) |
+| 🎛️ Other Binds | Customize in GUI |
+
+---
+
+## 💬 Feedback & Support
+
+Got a bug to report or an idea for the next update?  
+Reach out to me on Discord:  
+👉 **@realqualto** ❤️
+
+---
+
+## 📌 Notes
+
+- Fusion++ is currently under **active development** – expect regular updates!
+- Screenshare safe? 💯 As long as you’re careful.
+- Video of the original (not this version): [YouTube – Cyde](https://www.youtube.com/watch?v=QMNa8mOvMCY&t=117s&ab_channel=cyde)
+
+---
+
+## 📷 Screenshots / Preview
+*(Coming soon...)*
+
+---
+
+## ✅ To-Do
+
+- [x] DLL Injection support  
+- [x] ImGui Interface  
+- [ ] Auto-Updater  
+- [ ] Better Module Manager  
+- [ ] KillAura Rewrite  
+- [ ] Configuration System  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+Use at your own risk ⚠️
+
+---
+
+> Made with ❤️ by @realqualto
