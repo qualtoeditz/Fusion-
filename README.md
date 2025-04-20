@@ -83,4 +83,5 @@ Use at your own risk ⚠️
 
 ---
 
+Grüße gehen raus an Konsti
 > Made with ❤️ by @realqualto
